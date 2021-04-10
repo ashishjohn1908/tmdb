@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@android:color/transparent"
+    android:padding="@dimen/padding_12"
+    android:layout_height="wrap_content">
+
+    <ProgressBar
+        android:layout_width="@dimen/padding_32"
+        android:layout_height="@dimen/padding_32"
+        android:layout_gravity="center" />
+
+</FrameLayout>

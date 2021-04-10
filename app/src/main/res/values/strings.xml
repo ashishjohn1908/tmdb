@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="error_network_message">Please check your Internet Connection</string>
+    <string name="action_sort_label">Sort By</string>
+    <string name="action_sort_upcoming">Upcoming</string>
+    <string name="action_sort_most_popular">Popular</string>
+    <string name="action_sort_top_rated">Rating</string>
+
+    <string name="sort_by_date"> Release Date: %s</string>
+    <string name="sort_by_popularity"> Popularity: %s</string>
+    <string name="sort_by_rating"> Rating: %s</string>
+    <string name="label_content_description_poster">Poster Image</string>
+    <string name="label_default">N/A</string>
+    <string name="movie_title_dummy_text">Movie Title</string>
+    <string name="movie_release_date_dummy_text">Release Date</string>
+    <string name="label_overview">Overview</string>
+    <string name="label_reviews">Reviews</string>
+    <string name="error_review_unavailable">No Review Available</string>
+    <string name="movie_author_reviews_dummy_text">Ashish John</string>
+    <string name="movie_content_reviews_dummy_text">Dummy Review</string>
+
+    <string name="network_error">Network Error</string>
+</resources>
